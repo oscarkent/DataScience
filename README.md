@@ -1,2 +1,2 @@
 # DataScience
-print "Primera Prueba de GitHub"
+"Primera Prueba de GitHub"
